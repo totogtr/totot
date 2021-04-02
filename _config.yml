@@ -1,26 +1,25 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Thomas Baron
+name: Thomas Baron
 
 # Build settings
 markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
-primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+#primarylinks:
+# - title: Blog
+ #  url: https://automateddeveloper.blogspot.com/
+# - title: GitHub
+#   url: https://github.com/robhinds
+# - title: StackOverflow
+#   url: https://stackoverflow.com/users/258813/rhinds
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
+# - title: LinkedIn
+#   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+# - title: Food
+#   url: https://www.robbishfood.com/
 
 #Any buzzword skills you want to include
 skills:
